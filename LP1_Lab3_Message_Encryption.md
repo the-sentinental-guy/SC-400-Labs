@@ -68,7 +68,7 @@ In this task, you'll verify the correct Azure RMS functionality of your tenant.
     Test-IRMConfiguration -Sender MeganB@contoso.com -Recipient MeganB@contoso.com
     ```
 
-    ![IRM validation script result. ](../Media/irm-validation.png)
+    ![image](https://github.com/user-attachments/assets/362d5ba7-fe2f-4adf-af05-1394ca524703)
 
     Verify all tests are in the status PASS and no errors are shown.
 
@@ -90,7 +90,7 @@ There is a requirement in your organization to restrict trust for foreign identi
 
    Review the settings and confirm that the SocialIdSignIn is set to **True**.
 
-    ![Screenshot showing the SocialIdSignIn value set to True. ](../Media/socialidsignin-value-true.png)
+    ![image](https://github.com/user-attachments/assets/bf403da0-7069-4a9e-9ee3-f046a6127a26)
 
 1. Run the **Set-OMEConfiguration** cmdlet to restrict the use of social IDs for accessing messages from your tenant protected with OME:
 
@@ -106,7 +106,7 @@ There is a requirement in your organization to restrict trust for foreign identi
     Get-OMEConfiguration -Identity "OME Configuration" | fl
     ```
 
-    ![Screenshot showing the SocialIdSignIn value set to False. ](../Media/socialidsignin-value-false.png)
+    ![image](https://github.com/user-attachments/assets/7b39dce3-fc1a-439e-92fc-899b40d0fa30)
 
    Notice the result should show the SocialIDSignIn is set to **False**. Leave the PowerShell window and client open.
 
@@ -130,7 +130,7 @@ You must confirm that no social IDs dialog is displayed for external recipients 
 
 1. From the top pane, select **Options** then **Encrypt** to encrypt the message. Once you've successfully encrypted the message, you should see a notice that says "Encrypt: This message is encrypted. Recipients can't remove encryption."
 
-      ![Screenshot of Encryption settings](../Media/OptionsEncrypt.png)
+      ![image](https://github.com/user-attachments/assets/9ffd6ee6-6176-42cf-935e-3e1dae98729c)
 
 1. Select **Send** to send the message. Leave the Outlook window open.
 
@@ -222,7 +222,7 @@ To validate the new custom configuration, you need to use the account of Lynne R
 
 1. You should see a message from Lynne Robbins that looks like the image below.  Select **Read the message**.
 
-    ![Sample encrypted email from Lynne Robbins. ](../Media/EncryptedEmail.png)
+    ![image](https://github.com/user-attachments/assets/099b6d64-1a59-409a-8385-9ffa7e3cdf19)
 
 1. The customized configuration has social IDs activated, because both options are available. Select **Sign in with a One-time passcode** to receive a limited time passcode.
 
