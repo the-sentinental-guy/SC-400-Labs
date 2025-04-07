@@ -96,7 +96,7 @@ In this task, you'll create an Exact Data Match (EDM) based classification with 
 
 1. On the **Active teams and groups** page, on the top navigation ribbon, select **Security groups** then select **+ Add a security group**.
 
-    ![Screenshot of the Add a group button.](../Media/add-security-group.png)
+![image](https://github.com/user-attachments/assets/d83a05aa-26f5-4d68-8939-2824cd0ffb41)
 
 1. On the **Set up the basics** screen, enter the following:
 
@@ -155,13 +155,13 @@ In this task, you'll create an Exact Data Match (EDM) based classification with 
 
    You should have four columns. You'll need to select the **+ Add column** button to add new fields for new columns.
 
-      ![Screenshot showing the EDM columns in the EDM configuration walkthrough.](../Media/edm-columns.png)
+![image](https://github.com/user-attachments/assets/662b4b22-d0fe-4bb2-8fb4-56d6f7cb41e3)
 
 1. Select **Next**.
 
 1. On the **Select primary elements** page, for the **EmployeeID** column, expand the **Match mode** dropdown here **Single-token** is displayed, and select the **+** (plus sign) for **Choose a SIT**.
 
-      ![Screenshot showing the click path to add a SIT for a primary element in an EDM classifier.](../Media/match-mode-sensitive-info-type.png)
+![image](https://github.com/user-attachments/assets/aa987720-7b15-4199-86cd-502bf8c69473)
 
 1. On the **Choose a sensitive info type for "EmployeeID"** flyout panel on the right, in the search bar, search for `Contoso`.
 
@@ -169,7 +169,7 @@ In this task, you'll create an Exact Data Match (EDM) based classification with 
 
 1. Back on the **Select primary elements** page, select the checkbox to the right of **EmployeeID** to identify this field as a **Primary element**.
 
-      ![Screenshot showing EmployeeID selected as a primary element.](../Media/employee-id-primary-element.png)
+![image](https://github.com/user-attachments/assets/e9f778fb-0931-446d-88a3-15f357de8ce0)
 
 1. Select **Next**.
 
@@ -185,7 +185,8 @@ In this task, you'll create an Exact Data Match (EDM) based classification with 
 
 1. On the **You successfully created an EDM classifier** page, be sure to copy and paste the **Schema name** to use in the next task.
 
-      ![Screenshot showing the schema name after creating an EDM classifier.](../Media/edm-copy-schema-name.png)
+      ![image](https://github.com/user-attachments/assets/2aa17e06-9df3-40ba-9fa8-bf773ee8df63)
+
 
 1. Once you've captured the schema name, select **Done**.
 
@@ -279,9 +280,10 @@ In this task, you'll hash and upload the actual data for the EDM-based classific
 
     > **Note**: This process time, and you might have to run the GetSession script or refresh the EDM classifiers page a few times before the status shows the hash is complete.
 
-    ![Screenshot showing the EDM hash status set to Completed in PowerShell.](../Media/edm-hash-completed.png)
+    ![image](https://github.com/user-attachments/assets/64e01853-252f-491a-a958-a2f9332d15e0)
 
-    ![Screenshot showing the EDM hash status set to Index complete in Microsoft Purview portal.](../Media/edm-hash-completed-ui.png)
+    ![image](https://github.com/user-attachments/assets/3bcc3c47-383b-4d3a-be79-bab915dc992a)
+
 
 1. Close the PowerShell window.
 
