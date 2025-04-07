@@ -127,7 +127,7 @@ In this task, your HR department has requested a sensitivity label to apply to H
 
 1. On the **Sensitivity labels** page, find the newly created **Internal** sensitivity label. Select the vertical ellipsis (**...**) next to it, then select **+ Create sublabel** from the dropdown menu.
 
-    ![Screenshot showing the Action menu to create a sublabel for a sensitivity label.](../Media/create-sublabel-button.png)
+    ![image](https://github.com/user-attachments/assets/f7c8b28b-41aa-4ded-8a6b-9ab0ce2a6c0a)
 
 1. The **New sensitivity label** wizard will start. On the **Provide basic details for this label** page enter:
 
@@ -221,7 +221,7 @@ In this task, you will create sensitivity labels in Word and Outlook emails. The
 
 1. In **Microsoft Edge**, open a new Word document by selecting the meatball menu in the top left and selecting **Word**.
 
-    ![Screenshot showing where to select Word from the meatball menu.](../Media/meatball-menu-word.png)
+    ![image](https://github.com/user-attachments/assets/725a7176-bc4e-4a27-a7af-615b75adddf1)
 
 1. Select **Blank document** to create a new document.
 
@@ -233,13 +233,13 @@ In this task, you will create sensitivity labels in Word and Outlook emails. The
 
 1. Select **Sensitivity** from the navigation ribbon and select **Internal** > **Employee Data (HR)** to apply the newly created sensitivity label to this document.
 
-    ![Screenshot showing the sensitivity label button in Word.](../Media/word_label.png)
+    ![image](https://github.com/user-attachments/assets/2f2cf9d0-6b35-4b45-b8a1-d8562b7c2a46)
 
     >**Note:** It can take 24-48 hours for newly published sensitivity labels to be available for application. If the newly created sensitivity labels aren't available, you can use **Confidential** > **All Employees** for this exercise.
 
 1. In the upper left of the document, select **Document** to rename this file, and rename it to **`HR Document`**. Press enter to apply this name change.
 
-    ![Screenshot showing where to rename a file in Word on the web.](../Media/rename-web-word-file.png)
+    ![image](https://github.com/user-attachments/assets/bfc96f24-5bf6-49b4-98b2-b390e0937528)
 
 1. Close the tab to return to the Word Online tab. Select the meatball menu on the top left and select **Outlook** to open Outlook on the web.
 
@@ -304,7 +304,7 @@ In this task, you'll create a sensitivity label that will auto label documents a
 
 1. Select the checkbox next to the **Name** field to select all sensitive info types related to German, then select **Add**.
 
-    ![Screenshot showing how to add all German related sensitive info types.](../Media/select-all-german-types.png)
+    ![image](https://github.com/user-attachments/assets/feece385-7a35-44cb-b4f1-102a235c13a6)
 
 1. Back on the **Auto-labeling for files and emails** page, select **Next**.
 
