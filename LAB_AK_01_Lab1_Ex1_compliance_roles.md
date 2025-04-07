@@ -44,7 +44,7 @@ In this task, you'll assign the Compliance Admin role to Joni Sherman.
 
 1. Sign out of the MOD Administrator account by selecting the **MA** icon in the top right, then select **Sign out**.
 
-   ![Screenshot showing the navigation path to sign out of the MOD Administrator account.](../Media/sign-out.png)
+![image](https://github.com/user-attachments/assets/563646ce-cac1-466a-afab-c8156c407086)
 
 You have successfully assigned Joni Sherman the Compliance Administrator role, which is required to perform the different exercises of this lab.
 
