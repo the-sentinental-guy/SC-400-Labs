@@ -190,7 +190,7 @@ In this task you'll test the DLP policy that was created in the previous task.
 
 1. You should receive a message that the email was undeliverable and blocked by a DLP policy.
 
-      ![Screenshot of Manage roles option](../Media/dlp-email-blocked.png)
+      ![image](https://github.com/user-attachments/assets/cf997f12-23d6-49b0-8d86-b080be419632)
 
 You have successfully tested your DLP policy.
 
@@ -271,11 +271,11 @@ In this task, you'll create a file policy in Microsoft 365 Defender to scan file
 
 1. Keep the **Policy Severity** set to **Low** (one lighted icon) and make sure the **Category** is set to **DLP**. For a file policy, this should be the default.
 
-    ![Screenshot showing the policy severity set to low.](../Media/policy-severity-low.png)
+    ![image](https://github.com/user-attachments/assets/4c9cc88c-3332-4ae9-b8a7-0c09a7908fec)
 
 1. In the **Files matching all of the following** area, expand the dropdown menu **Public (Internet), External, Public**, and add **Internal**.
 
-    ![Screenshot showing the files matching dropdown with the internal option added.](../Media/files-matching-internal.png)
+    ![image](https://github.com/user-attachments/assets/19d7a84e-9b95-42e7-855e-bac0d788598c)
 
 1. In the **Inspection method** dropdown menu, select **Data Classification Service**.
 
@@ -313,7 +313,7 @@ Your company uses Power Automate flows to share data between SharePoint Online a
 
 1. On the **Non-business|Default** tab on the **Assign connectors** page, select **SharePoint** and **Salesforce**, then select **Move to Business** at the top of the page.
 
-    ![Screenshot showing the Move to Business button in the Power Platform admin center.](../Media/move-to-business.png)
+    ![image](https://github.com/user-attachments/assets/84702462-e9de-4cd4-8368-384b74576ff5)
 
 1. In the **Assign connectors** page, select the **Business** tab to make sure both SharePoint and Salesforce now appear in this tab, then select **Next**.
 
